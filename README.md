@@ -16,7 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-<img src="https://img.shields.io/badge/Python-1572B6?style=flat&logo=python&logoColor=#3776AB"/>
-<img src="https://img.shields.io/badge/FastAPI-3F5DFF?style=flat&logo=fastapi&logoColor=#009688"/>
-<img src="https://img.shields.io/badge/OpenCV-4479A1?style=flat&logo=opencv&logoColor=#5C3EE8"/>
-<img src="https://img.shields.io/badge/SpringBoot-0052CC?style=flat&logo=springboot&logoColor=#6DB33F"/>
+<img src="https://img.shields.io/badge/Python-F7DF1E?style=flat&logo=python&logoColor=#3776AB"/> <img src="https://img.shields.io/badge/FastAPI-3F5DFF?style=flat&logo=fastapi&logoColor=#009688"/> <img src="https://img.shields.io/badge/OpenCV-4479A1?style=flat&logo=opencv&logoColor=#5C3EE8"/> <img src="https://img.shields.io/badge/SpringBoot-0052CC?style=flat&logo=springboot&logoColor=#6DB33F"/>
